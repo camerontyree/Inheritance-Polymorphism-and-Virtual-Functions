@@ -1,0 +1,7 @@
+﻿  TyreeProgram.cpp
+D:\repos\sinclair-c++\Inheritance, Polymorphism, and Virtual Functions\Inheritance, Polymorphism, and Virtual Functions\TyreeProgram.cpp(21,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\repos\sinclair-c++\Inheritance, Polymorphism, and Virtual Functions\Inheritance, Polymorphism, and Virtual Functions\TyreeProgram.cpp(29,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\repos\sinclair-c++\Inheritance, Polymorphism, and Virtual Functions\Inheritance, Polymorphism, and Virtual Functions\TyreeProgram.cpp(30,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\repos\sinclair-c++\Inheritance, Polymorphism, and Virtual Functions\Inheritance, Polymorphism, and Virtual Functions\TyreeProgram.cpp(38,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\repos\sinclair-c++\Inheritance, Polymorphism, and Virtual Functions\Inheritance, Polymorphism, and Virtual Functions\TyreeProgram.cpp(39,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Inheritance, Polymorphism, and Virtual Functions.vcxproj -> D:\repos\sinclair-c++\Inheritance, Polymorphism, and Virtual Functions\x64\Debug\Inheritance, Polymorphism, and Virtual Functions.exe
